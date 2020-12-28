@@ -1,3 +1,4 @@
+![](/image/icon.png)
 # Naruto Shippuden Ultimate Ninja 5 [PS2]
 Patch de tradução para o jogo e modificações.
 
@@ -11,13 +12,16 @@ VÍDEOS(PSS): 100% <br/>
 
 REVISÃO: 99% <br/>
 
-![ ](/images/logo.png)
 
 ## Tradutores
 
 ### *Meloolavio [(Youtube)](https://www.youtube.com/meloolavio) [Projeto, Textos e Texturas]<br/>
 ### *Raiden [Textos/Diálogos, Ponteiros, Texturas e Revisão]<br/>
 ### *Edinho [Texturas e Diálogos NPCS]<br/>
+
+![](/image/Parceria.png)
+
+![](/image/Tradutores.png)
 
 # Versão Atual: 7.0
 
