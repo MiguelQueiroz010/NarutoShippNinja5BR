@@ -11,11 +11,11 @@ VÍDEOS(PSS): 100% <br/>
 
 REVISÃO: 99% <br/>
 
-## Tradutores------------------------------------------------
+## Tradutores
 
--Meloolavio (youtube.com/meloolavio) [Projeto, Textos e Texturas]<br/>
--Raiden [Textos/Diálogos, Ponteiros, Texturas e Revisão]<br/>
--Edinho [Texturas e Diálogos NPCS]<br/>
+### Meloolavio (youtube.com/meloolavio) [Projeto, Textos e Texturas]<br/>
+### Raiden [Textos/Diálogos, Ponteiros, Texturas e Revisão]<br/>
+### Edinho [Texturas e Diálogos NPCS]<br/>
 
 # Versão Atual: 7.0
 
