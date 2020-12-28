@@ -7,7 +7,7 @@ assignees: MiguelQueiroz010
 
 ---
 
-**Descreva o bug**
+**Descrição**
 Exemplo:Falha no texto da cutscene x y z.
 
 **Como acontece**
